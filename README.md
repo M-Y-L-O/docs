@@ -1,7 +1,7 @@
 # ----LINKS TO SOURCE CODE----
-[Web interface repo ](https://github.com/M-Y-L-O/WebInterface) 
-[Client repo ](https://github.com/M-Y-L-O/MYLO-Desktop-Agent) 
-[Client Orchestrator](https://github.com/M-Y-L-O/Orchestrator) 
+[Web interface repo ](https://github.com/M-Y-L-O/WebInterface)   
+[Client repo ](https://github.com/M-Y-L-O/MYLO-Desktop-Agent)   
+[Client Orchestrator](https://github.com/M-Y-L-O/Orchestrator)   
 
 # MYLO 
 MYLO is a Machine Learning platform built as an intelligent engine for creating, analyzing, and optimizing models, where neural network architectures become fully programmable. Instead of treating models as "black boxes," MYLO transforms them into editable dynamic graphs, enabling real-time structural modifications, automatic validation, and secure execution.
