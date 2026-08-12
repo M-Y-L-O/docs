@@ -1,0 +1,9 @@
+[submodule "WebInterface"]
+	path = WebInterface
+	url = https://github.com/M-Y-L-O/WebInterface.git
+[submodule "MYLO-Desktop-Agent"]
+	path = MYLO-Desktop-Agent
+	url = https://github.com/M-Y-L-O/MYLO-Desktop-Agent.git
+[submodule "Orchestrator"]
+	path = Orchestrator
+	url = https://github.com/M-Y-L-O/Orchestrator.git
